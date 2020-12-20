@@ -1,4 +1,6 @@
+# robofriends
 
-Run npm install
+To run the project:
 
-Run npm start
+1. Run `npm install`
+2. Run `npm start`
